@@ -13,6 +13,8 @@ I made this loader simply because I was bored and because some people asked me t
 - Replace the Mapper
 - Set up Auth.gg and add your credentials in
 
+> Old DLL, mapper and drivers can be found in "Resources.rar"
+
 All of this can be replaced in Resources in VS
 
 You can also adjust this for a spoofer only etc. 
