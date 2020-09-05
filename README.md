@@ -23,4 +23,4 @@ You can also adjust this for a spoofer only etc.
 - Start Injection (it first maps the driver)
 - Finish Injection once in-game
 
-Then make sure to sell you pasted p2c / spoofer!
+Then make sure to sell your pasted p2c / spoofer!
