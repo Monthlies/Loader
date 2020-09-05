@@ -16,3 +16,11 @@ I made this loader simply because I was bored and because some people asked me t
 All of this can be replaced in Resources in VS
 
 You can also adjust this for a spoofer only etc. 
+
+## Usage
+
+- Login using key only with Auth.gg
+- Start Injection (it first maps the driver)
+- Finish Injection once in-game
+
+Then make sure to sell you pasted p2c / spoofer!
